@@ -1,3 +1,4 @@
+Day 32 of 100-day Python coding challenge
 # Birthday_wisher_automation
 This Python program serves as a birthday reminder and email sender. It checks a CSV file for any birthdays matching the current date and sends customized birthday emails to the respective individuals. The email content can be personalized using different letter templates.
 
